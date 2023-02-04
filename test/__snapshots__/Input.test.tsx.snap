@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input test renders 1`] = `
+<body>
+  <div>
+    <input
+      class="css-1l68gjm"
+      style="width: 100%;"
+    />
+  </div>
+</body>
+`;

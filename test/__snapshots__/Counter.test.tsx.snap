@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter test renders 1`] = `
+<body>
+  <div>
+    <div>
+      <h1>
+        Hello! 
+        shan
+      </h1>
+      <h2
+        style="text-align: center; font-size: 24px;"
+      >
+        0
+      </h2>
+      <div
+        style="display: flex; gap: 15px;"
+      >
+        <button
+          style="flex: 1; padding: 5px; background-color: cornflowerblue;"
+        >
+          Increment
+        </button>
+        <button
+          style="flex: 1; padding: 5px; background-color: cornflowerblue;"
+        >
+          Decrenment
+        </button>
+      </div>
+    </div>
+  </div>
+</body>
+`;

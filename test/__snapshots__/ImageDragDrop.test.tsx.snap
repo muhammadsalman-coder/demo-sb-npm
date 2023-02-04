@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SalmanImageDragDrop test renders 1`] = `
+<body>
+  <div>
+    <div
+      class="MuiBox-root css-glnqz7"
+    >
+      <input
+        accept="image/png, image/jpg, image/jpeg"
+        type="file"
+      />
+      <div
+        class="MuiBox-root css-0"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="CameraAltIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <circle
+            cx="12"
+            cy="12"
+            r="3.2"
+          />
+          <path
+            d="M9 2 7.17 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2h-3.17L15 2H9zm3 15c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z"
+          />
+        </svg>
+      </div>
+      <div
+        class="MuiBox-root css-0"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-yk42ob-MuiTypography-root"
+        >
+          Drag and Drop Image Here or
+          <span
+            class="MuiTypography-root MuiTypography-body1 css-vkc4v8-MuiTypography-root"
+          >
+            Click to Browse
+          </span>
+        </p>
+        <ul>
+          <li>
+            <p>
+              JPG, PNG
+            </p>
+          </li>
+          <li>
+            <p>
+              Image will be cropped in 3:1 ratio
+            </p>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</body>
+`;
